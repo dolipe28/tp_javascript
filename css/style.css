@@ -1,0 +1,272 @@
+* {
+   margin: 0;
+   padding: 0;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.confbuenosaires {
+   margin-left: 60px;
+}
+
+.letraconf {
+   font-size: 1.4em;
+}
+
+.navbar {
+   background: #353A40;
+   justify-content: space-between;
+   color: white;
+}
+
+nav {
+   margin-right: 6%;
+}
+
+nav a {
+   margin-left: 10px;
+   font-size: 15px;
+   text-decoration: none;
+   color: gray;
+}
+
+.cuadroprincipal {
+   width: 100%;
+   height: 250px;
+   margin-top: 50px;
+   display: flex;
+   justify-content: space-around;
+}
+
+.cuadrocentrado {
+   width: 50%;
+   height: 100%;
+   display: flex;
+   justify-content: space-between;
+}
+
+.col-3 {
+   border: solid 1px red;
+}
+
+.primercuadro {
+   width: 33%;
+   height: 100%;
+   border: solid 1px rgb(0, 123, 255);
+}
+
+.h5Estudiante {
+   width: 100%;
+   height: 90px;
+   align-items: center;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+
+.descuentoestudiante {
+   width: 100%;
+}
+
+.descuento80 {
+   width: 100%;
+}
+
+.ochenta {
+   font-weight: bolder;
+   font-size: 1.4em;
+}
+
+.documentacion {
+   width: 100%;
+}
+
+p {
+   text-align: center;
+   align-items: center;
+}
+
+.segundocuadro {
+   width: 33%;
+   height: 100%;
+   border: solid 1px rgb(23, 162, 184);
+}
+
+.tercercuadro {
+   width: 33%;
+   height: 100%;
+   border: solid 1px rgb(255, 193, 7);
+}
+
+.principal-text {
+   top: 40%;
+   right: 5%;
+   position: absolute;
+   width: 50%;
+   color: white;
+}
+
+.trainer {
+   width: 100%;
+   height: 90px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.junior {
+   width: 100%;
+   height: 90px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.card-style {
+   width: 18rem;
+   font-size: 12px;
+}
+
+.card-style a {
+   font-size: 12px;
+}
+
+.card-style h5 {
+   margin-top: 5px;
+}
+
+.input-form {
+   width: 48%;
+}
+
+.textarea-form {
+   margin-top: 15px;
+   height: 200px;
+}
+
+.form-btn {
+   font-size: 13px;
+   margin-top: 15px;
+}
+
+.footer {
+   margin-top: 20px;
+   background: #205B73;
+   height: 100px;
+}
+
+.footer span {
+   color: white;
+   font-size: 14px;
+}
+
+.email {
+   width: 100%;
+   margin-top: 17px;
+   height: 38px;
+   padding: 3px 0px 0px 10px;
+   border-style: none;
+   border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
+.cantidad {
+   width: 100%;
+   display: flex;
+   margin-top: 25px;
+}
+
+.cuadrocantidad {
+   width: 100%;
+   height: 38px;
+   padding: 3px 0px 0px 10px;
+   border-style: none;
+   border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
+.cantidad2 {
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   margin-top: 11px;
+}
+
+.pagar {
+   width: 100%;
+   height: 50px;
+   margin-top: 40px;
+}
+
+#Pagar {
+   width: 100%;
+   height: 100%;
+   padding: 10px 0px 0px 20px;
+   background-color: rgb(204, 229, 255);
+   border-radius: 5px;
+}
+
+.botonenviarborrar {
+   width: 100%;
+   height: 50px;
+   margin-top: 30px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.valorticket {
+   font-size: 1.80em;
+}
+
+.todoelformulario {
+   display: flex;
+   width: 100%;
+   justify-content: center;
+}
+
+.elformulario {
+   width: 50%;
+   justify-content: space-around;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+   -webkit-appearance: none;
+   margin: 0;
+}
+
+.reset {
+   width: 100%;
+   height: 100%;
+   background-color: rgb(151, 201, 62);
+   color: white;
+   border-style: none;
+}
+
+.enviar {
+   width: 100%;
+   height: 100%;
+   background-color: rgb(151, 201, 62);
+   color: white;
+   border-style: none;
+}
+
+input {
+   border-radius: 5px;
+}
+
+.cuadrona {
+   width: 49%;
+}
+
+.container {
+   border: 1px solid white;
+}
+
+.palabracategoria {
+   padding-left: 14px;
+}
+
+
+.labarrita {
+   background: linear-gradient(to right, #273b47, #1e5270);
+}
